@@ -1,4 +1,5 @@
-# redux-kpt
+# React + Redux = Note App
+
 Clone it to your machine. run
 
 npm install
