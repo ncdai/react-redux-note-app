@@ -1,7 +1,7 @@
 {
-  "name": "react-server-side2311",
+  "name": "react-redux-note-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "React + Redux = Note App",
   "main": "index.js",
   "dependencies": {
     "babel-preset-stage-0": "^6.24.1",
@@ -23,12 +23,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vanpho93/redux-kpt.git"
+    "url": "git+https://github.com/nguyenchanhdai/react-redux-note-app.git"
   },
-  "author": "Van Pho Nguyen",
+  "author": "Nguyen Chanh Dai",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vanpho93/redux-kpt/issues"
+    "url": "https://github.com/nguyenchanhdai/react-redux-note-app/issues"
   },
-  "homepage": "https://github.com/vanpho93/redux-kpt#readme"
+  "homepage": "https://github.com/nguyenchanhdai/react-redux-note-app#readme"
 }
